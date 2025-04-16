@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://t.me/ваш_телеграм">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="mailto:ваш@email.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Maria2525007&style=flat-square&color=blue" alt=""/>
 </div>

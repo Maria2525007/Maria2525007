@@ -1,43 +1,50 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
-  <div id="badges">
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Maria2525007&style=flat-square&color=blue" alt=""/>
-</div>
+# Maria Makhmudova
 
-<h1 align="center">
-  Привет, я Мария!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+Software engineer, ITMO University (Software Engineering — Neurotechnologies
+and Programming, 2023–2027). Build freelance sites and Telegram bots at
+[daysnotweeks.vercel.app](https://daysnotweeks.vercel.app) · Telegram
+[@just_cause_21](https://t.me/just_cause_21).
 
-### 💻 Обо мне:
-- 🎓 Студентка Университета ИТМО по направлению "Программная инженерия", специальность "Нейротехнологии и программирование" (2023-2027 гг.)
-- 🌱 В настоящее время углубленно изучаю QA и ML
-- ⚡ Факты: Умею варить вкусный кофе и катаюсь на сноуборде
-- 📫 ТГ: [![Telegram Badge](https://img.shields.io/badge/-тык-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/just_cause_21)
+## Portfolio
 
-### 🛠️ Мой стек:
-#### Языки программирования:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+Pet projects and freelance-practice work.
 
-#### Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- [drawasnowflake](https://github.com/Maria2525007/drawasnowflake) — canvas snowflake drawing + animated tree, React/Express/Postgres, Docker, CI
+- [newscore-ai](https://github.com/Maria2525007/newscore-ai) — NL-query news briefing agent, embedding-based ranking, FastAPI
+- [startup-project](https://github.com/Maria2525007/startup-project) — early pitch deck for newscore-ai
+- [portfolio](https://github.com/Maria2525007/portfolio) — this freelance site's source (Next.js)
+- [heart](https://github.com/Maria2525007/heart) — audio-reactive 3D piece, react-three-fiber
+- [wardrobe-ai](https://github.com/Maria2525007/wardrobe-ai) — pitch deck for a wardrobe-aware shopping assistant idea
+- [student-grades-service](https://github.com/Maria2525007/student-grades-service) — FastAPI grade-upload/analysis service
+- [ugol45-barbershop-bot](https://github.com/Maria2525007/ugol45-barbershop-bot) — Telegram booking bot, serverless on Vercel
+- [brigada12-quote-bot](https://github.com/Maria2525007/brigada12-quote-bot) — Telegram lead-intake bot, serverless on Vercel
+- [finance-intensive](https://github.com/Maria2525007/finance-intensive) / [cat-feeder](https://github.com/Maria2525007/cat-feeder) / [grooming](https://github.com/Maria2525007/grooming) / [photo-course](https://github.com/Maria2525007/photo-course) — landing-page practice projects, Next.js
 
-#### Инструменты:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## Client work
 
-#### Базы данных:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- [raketa](https://github.com/Maria2525007/raketa) — landing for Raketa watch manufactory's collectors' club, via agency
+- [ama](https://github.com/Maria2525007/ama) / [ama_red](https://github.com/Maria2525007/ama_red) — private, link works when access is open — two design directions for a private members' club
 
+## Internships
 
+Test assignments for internship applications.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria2525007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- [Avito_QA_2025_spring](https://github.com/Maria2525007/Avito_QA_2025_spring) — QA intern assignment (Avito)
+- [sftp_clien_QA_intership](https://github.com/Maria2525007/sftp_clien_QA_intership) — test automation intern assignment, Java SFTP client
+- [pg_intership_task](https://github.com/Maria2525007/pg_intership_task) — PostgreSQL query optimization
+- [lesta_games_intership](https://github.com/Maria2525007/lesta_games_intership) — TF-IDF text analysis tool
+
+## ITMO coursework (RU)
+
+- **Программирование, 1 курс** — [Lab5](https://github.com/Maria2525007/Lab5), [lab3](https://github.com/Maria2525007/lab3), [labpr1](https://github.com/Maria2525007/labpr1)
+- **ОПД, 1 курс** — [opi_lab3](https://github.com/Maria2525007/opi_lab3), [analog_pusr_opd](https://github.com/Maria2525007/analog_pusr_opd)
+- **Информатика, 1 курс** — [ITMO_labs](https://github.com/Maria2525007/ITMO_labs)
+- **Веб-программирование** — [webLab_1](https://github.com/Maria2525007/webLab_1)
+- **Тестирование ПО, 3 курс** — [tpo_lab1](https://github.com/Maria2525007/tpo_lab1), [tpo_lab2](https://github.com/Maria2525007/tpo_lab2), [tpo_lab4](https://github.com/Maria2525007/tpo_lab4)
+- **ML, 3 курс** — [ml-basics](https://github.com/Maria2525007/ml-basics)
+- **ОС** — [os-course](https://github.com/Maria2525007/os-course) — private, link works when access is open
+
+## Other coursework
+
+- [Data_parsing_for_HSE](https://github.com/Maria2525007/Data_parsing_for_HSE) — HSE homework, pandas
+- **Product Star** (external Java course) — [PS-HW](https://github.com/Maria2525007/PS-HW), [PS-HW_10Lesson_Matrices](https://github.com/Maria2525007/PS-HW_10Lesson_Matrices), [Lesson_CollectionProject](https://github.com/Maria2525007/Lesson_CollectionProject), [Lesson_Generics](https://github.com/Maria2525007/Lesson_Generics), [Lesson_Stream](https://github.com/Maria2525007/Lesson_Stream), [Lesson_Algoritms1](https://github.com/Maria2525007/Lesson_Algoritms1), [ResultsBoard](https://github.com/Maria2525007/ResultsBoard), [studentsExamination](https://github.com/Maria2525007/studentsExamination)

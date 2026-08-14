@@ -9,9 +9,9 @@
 ---
 
 Software Engineering student at ITMO University (Neurotechnologies and
-Programming, 2023–2027), currently going deep on QA and ML. On the side I
-build landing pages, Telegram bots, and small web apps for freelance clients
-- usually shipped within a week. I make good coffee and I snowboard.
+Programming, 2023–2027), currently going deep on BackendDev, QA and ML. On the side I
+build landing pages, soft, Telegram bots, and small web apps for freelance clients. 
+I love making good coffee and snowboarding.
 
 <br>
 
